@@ -4,8 +4,10 @@ In the project I used a large dataframe of ~6M rows to predict the number of tax
 # Used libraries
 pandas, numpy
 
-seaborn, matplotlib, plotly, folium (if folium or plotly_calplot fail to plot: File --> Trust Notebook)
-To see all the plots open the notebook in nbviewer
-[nbviewer](https://nbviewer.org/github/vladislavziyangulov/workshop/blob/main/taxi_trips.ipynb)
+seaborn, matplotlib, plotly, folium
+
+To see all the plots open the notebook in nbviewer:
+
+(https://nbviewer.org/github/vladislavziyangulov/workshop/blob/main/taxi_trips.ipynb)
 
 pyspark
