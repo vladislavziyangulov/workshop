@@ -3,6 +3,7 @@ In the project I used a large dataframe of ~6M rows to predict the number of tax
 
 # To see all the plots:
 [taxi_trips](https://nbviewer.org/github/vladislavziyangulov/workshop/blob/main/taxi_trips.ipynb)
+
 [area8_taxi_trips](https://nbviewer.org/github/vladislavziyangulov/workshop/blob/dd2d8781ad8e63d89ea759a857513b15c3ae181c/area8_taxi_trips.ipynb)
 
 # Used libraries
