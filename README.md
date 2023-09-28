@@ -12,3 +12,9 @@ pandas, numpy
 seaborn, matplotlib, plotly, folium
 
 pyspark
+
+selenium
+
+sklearn, statsmodels, phik
+
+tensorflow, keras
