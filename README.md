@@ -15,6 +15,6 @@ pyspark
 
 selenium
 
-sklearn, statsmodels, phik
+sklearn, lightgbm, statsmodels, phik
 
 tensorflow, keras
