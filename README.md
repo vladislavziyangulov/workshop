@@ -4,7 +4,7 @@ In the project I used a large dataframe of ~6M rows to predict the number of tax
 # To see all the plots:
 [taxi_trips](https://nbviewer.org/github/vladislavziyangulov/workshop/blob/main/taxi_trips.ipynb)
 
-[area8_taxi_trips](https://nbviewer.org/github/vladislavziyangulov/workshop/blob/ef11a22cc0b48b00eb1908e6791b8d56f2cbc54d/area8_taxi_trips.ipynb)
+[area8_taxi_trips](https://nbviewer.org/github/vladislavziyangulov/workshop/blob/b0b28e7bf40116310989eaec6ceac840bb01febe/area8_taxi_trips.ipynb)
 
 # Used libraries
 pandas, numpy
