@@ -21,7 +21,7 @@ Pandas cannot process such a large dataframe efficiently, hence pyspark was used
 | Adding a new "holidays" column | Learned to use holidays library & learned to use spark broadcast|
 | No time-series crossvalidation in pyspark |  Wrote a function with a loop and grid search |
 | Low metric for community area 8 | Analyzed the area separately |
-| **No available Chicago weather dataset free of pay** | **Compiled myself with Selenium for free** |
+| **No available Chicago weather dataset** | **Compiled myself with Selenium** |
 
 # Used libraries
 pandas, numpy
