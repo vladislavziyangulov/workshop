@@ -6,7 +6,7 @@ In the project I used a large dataframe of ~6M rows to predict the number of tax
 
 [area8_taxi_trips](https://nbviewer.org/github/vladislavziyangulov/workshop/blob/b0b28e7bf40116310989eaec6ceac840bb01febe/area8_taxi_trips.ipynb)
 
-[Tableau](https://public.tableau.com/app/profile/vladislav.ziyangulov/viz/ChicagoTaxi2/TimeSeries)
+[Tableau](https://public.tableau.com/views/ChicagoTaxi2/TimeSeries?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 # Summarizon
 
